@@ -8,7 +8,7 @@ ajax
 
 request
 
----
+-----
 ### get Access Token
 
 ```txt
@@ -39,6 +39,6 @@ Content-Type: application/json
  refresh_token: String
 }
 ```
----
+-----
 hasta aqui llega este contenido lo saque de mi proyecto de twitch
 
