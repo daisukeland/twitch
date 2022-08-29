@@ -12,6 +12,7 @@ Content-Type: application/json
  client_secret: String,
  grant_type: "client_credentials",
  scope: Array
+}
 ```
 ### refresh Access Token
 ```
