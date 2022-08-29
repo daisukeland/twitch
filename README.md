@@ -6,6 +6,7 @@
 url: https://id.twitch.tv/oauth2/token
 method: POST
 Content-Type: application/json
+
 {
  client_id: String,
  client_secret: String,
@@ -17,6 +18,7 @@ Content-Type: application/json
 url: https://id.twitch.tv/oauth2/token
 method: POST
 Content-Type: application/json
+
 {
  client_id: String,
  client_secret: String,
