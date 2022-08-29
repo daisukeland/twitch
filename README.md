@@ -1,12 +1,12 @@
 # twitch-api
 ## para consumir una api ay distintos metodos
-- fetch
+fetch
 
-- XMLHttpRequest
+XMLHttpRequest
 
-- ajax
+ajax
 
-- request
+request
 
 ### get Access Token
 
