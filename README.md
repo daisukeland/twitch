@@ -1,9 +1,11 @@
 # twitch-api
 ## para consumir una api ay distintos metodos
+<code>
 fetch
 XMLHttpRequest
 ajax
 request
+</code>
 ### get Access Token
 ```
 url: https://id.twitch.tv/oauth2/token
